@@ -27,7 +27,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: howstrangeoficial
+          user: alansilvacode
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
